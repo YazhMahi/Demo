@@ -1,3 +1,2 @@
-Sample2
-
-New code added
+#! /bin/bash
+echo "Hello World"
