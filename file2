@@ -12,3 +12,11 @@ Value=100
 
 echo The Name is $NAME
 echo The Value is $Value
+
+echo "Enter Username : "
+read
+echo "Username : $REPLY"
+
+echo "Enter Password : "
+read
+echo "Password : $REPLY"
