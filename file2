@@ -20,5 +20,3 @@ echo "Username : $REPLY"
 echo "Enter Password : "
 read
 echo "Password : $REPLY"
-
-date
