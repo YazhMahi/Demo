@@ -20,3 +20,9 @@ echo "Username : $REPLY"
 echo "Enter Password : "
 read
 echo "Password : $REPLY"
+
+echo $0 $1 $2 $3
+
+args=("$@")
+
+echo ${args[1]} ${args[2]}
